@@ -1,6 +1,6 @@
 {
   "name": "@wangdahoo/krb-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "lib/index.js",
   "bin": {
     "krb": "./lib/index.js"
